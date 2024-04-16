@@ -5,8 +5,10 @@ permitindo adicionar, editar, excluir e visualizar os estudantes de forma eficie
 
 **Tecnologias Utilizadas :**
 
-ASP.NET Core MVC 
+ASP.NET Core MVC
+
 Entity Framework Core 
+
 SQL Server
 
 **Funcionalidades**:
